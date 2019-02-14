@@ -1,0 +1,66 @@
+h1 {
+	color: white;
+	font-size: 5em;
+	float: right; 
+	margin-right: 4.2em;
+	text-shadow: 8px 8px 8px #999;
+
+}
+
+h3{
+    color: white;
+    font-size: 3em;
+    float: middle; 
+    margin-left: 4.2em;
+}
+
+input[type="submit"]{
+    background-color: Transparent;
+    border: none;
+    color:white;
+	position: relative;
+    top: 4px;
+    left: 455px;
+    font-size: 1em;
+    text-shadow: 8px 8px 8px #666;
+
+}
+
+input[type="reset"]{
+    background-color: Transparent;
+    border: none;
+    color:white;
+    top: 5px;
+    font-size: 1em;
+    text-shadow: 8px 8px 8px #666;
+
+}
+
+hr{
+	width: 80em;
+}
+
+style{
+	color:white;
+}
+
+fieldset{
+	color:white;
+	width: 20em;
+	padding: 10px;
+	position: relative;
+    left: 490px;
+    border-radius: .75em;
+
+}
+p{
+	position: relative;
+    left: 50px;
+}
+
+div{
+	font-size: 3em;
+	position: relative;
+	top: 30px;
+    left: 90px;
+}
